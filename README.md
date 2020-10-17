@@ -1,3 +1,3 @@
-# robotic-arm
+# Airplane remote control 
 
-Simple mobile browser robotic arm remote control. Optimized for usage for esp32 development
+Simple mobile browser airplane remote control. Optimized for usage for esp32 development
